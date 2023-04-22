@@ -1,0 +1,1 @@
+- WARNING:tensorflow:From C:\Users\eziod\AppData\Local\Temp\ipykernel_17516\269687074.py:5: numeric_column (from tensorflow.python.feature_column.feature_column_v2) is deprecated and will be removed in a future version.   What to use instead ?
